@@ -5,9 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on project related to automation of applying jobs
+- 🔭 Im a front-end developer
+- 🔭 I’m currently working on project based on YOLOv11s-seg - instance segmentation of potholes 
 - 🌱 I’m currently learning back end development
 - 💬 Ask me about any design queries or doubts regarding uiux..
 - 📫 How to reach me: yuvalakshmi.m2022@vitstudent.ac.in
 - 😄 Pronouns: she/her
 
+Skills - React, javascript , html , TailwindCSS, python , beautifulSoup 
