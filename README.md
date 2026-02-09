@@ -13,8 +13,11 @@ I love building products where AI meets real users from computer vision research
 What I work with
 
 Frontend: React • JavaScript • TailwindCSS • HTML
+
 Backend: FastAPI • APIs • Databases (Firebase , MongoDB, Neo4j, Redis)
+
 AI/ML: Python • TensorFlow • OpenCV • YOLO • NLP
+
 Data:  Data collection & analysis
 
 Current interests
