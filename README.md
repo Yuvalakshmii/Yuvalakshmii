@@ -1,6 +1,6 @@
 Hi there 👋 I'm Yuvalakshmi
 
-I love building products where AI meets real users — from computer vision research to full-stack apps shipped to production.
+I love building products where AI meets real users from computer vision research to full-stack apps shipped to production.
 
 🔬 Currently working on computer vision & NLP projects
 📱 Built and deployed an AI relationship companion app on the Play Store
@@ -10,9 +10,9 @@ I love building products where AI meets real users — from computer vision rese
 What I work with
 
 Frontend: React • JavaScript • TailwindCSS • HTML
-Backend: FastAPI • APIs • Databases
-AI/ML: Python • PyTorch • OpenCV • YOLO • NLP
-Data: BeautifulSoup • Data collection & analysis
+Backend: FastAPI • APIs • Databases (Firebase , MongoDB, Neo4j, Redis)
+AI/ML: Python • TensorFlow • OpenCV • YOLO • NLP
+Data:  Data collection & analysis
 
 Current interests
 
@@ -25,3 +25,4 @@ Full-stack development
 Building things people actually use
 
 📫 Reach me: yuvalakshmi.m2022@vitstudent.ac.in
+
