@@ -20,15 +20,9 @@ AI/ML: Python • TensorFlow • OpenCV • YOLO • NLP
 
 Data:  Data collection & analysis
 
-Current interests
 
-Edge AI & Computer Vision
 
-AI-powered products
-
-Full-stack development
-
-Building things people actually use
+Building things people actually need.
 
 📫 Reach me: yuvalakshmi.m2022@vitstudent.ac.in
 
